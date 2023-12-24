@@ -3,12 +3,12 @@
 }
 
 .title {
-    font-size: 96px;
+    font-size: 70px;
     font-weight: 300;
 }
 
 .post {
-    margin-top: 60px;
+    margin-top: 40px;
     display: flex;
     align-items: center;
     gap: 50px;
@@ -46,6 +46,11 @@
     border: none;
     border-radius: 5px;
     width: max-content;
+    cursor: pointer;
+}
+
+.button:hover {
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 1280px) {

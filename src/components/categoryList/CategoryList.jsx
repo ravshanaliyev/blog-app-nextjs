@@ -1,8 +1,11 @@
 import React from 'react'
 import './categoryList.module.css'
+import Pagination from '../pagination/Pagination'
 const CategoryList = () => {
     return (
-        <div>CategoryList</div>
+        <div>CategoryList
+            <Pagination />
+        </div>
     )
 }
 
