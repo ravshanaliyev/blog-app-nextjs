@@ -50,6 +50,10 @@
     background-color: #5e4fff31;
 }
 
+.category.blog {
+    background-color: #47007d39;
+}
+
 @media screen and (max-width: 1280px) {
     .category {
         width: 20%;
