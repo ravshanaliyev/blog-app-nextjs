@@ -5,7 +5,6 @@ import React, { useContext, useEffect, useState } from "react";
 
 const ThemeProvider = ({ children }) => {
     const { theme } = useContext(ThemeContext);
-    console.log(theme);
     const [mounted, setMounted] = useState(false);
 
     useEffect(() => {

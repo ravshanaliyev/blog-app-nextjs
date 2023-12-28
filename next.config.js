@@ -6,6 +6,7 @@ const nextConfig = {
       "stylegirlfriend.com",
       "encrypted-tbn0.gstatic.com",
       "images.pexels.com",
+      "lh3.googleusercontent.com",
     ],
   },
 };
