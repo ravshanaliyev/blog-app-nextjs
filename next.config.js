@@ -7,6 +7,7 @@ const nextConfig = {
       "encrypted-tbn0.gstatic.com",
       "images.pexels.com",
       "lh3.googleusercontent.com",
+      "firebasestorage.googleapis.com",
     ],
   },
 };
